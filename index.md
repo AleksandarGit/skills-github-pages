@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Welcome to my super blog where I unleash the power of knowledge!
 ---
 
